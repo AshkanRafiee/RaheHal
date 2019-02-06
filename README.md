@@ -3,7 +3,7 @@
 **HOW TO INSTALL ?**
 
 
-> Simply donwload your desired architecture from exe files on the Automated Folder And Run The Program. 
+> Simply donwload your desired architecture from exe files And Run The Program. 
 > 
 > This Program Requires Administrator privilages! 
 
