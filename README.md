@@ -11,13 +11,13 @@
 
 **HOW TO Activate ?!**
 
-> Use Y/y in the Console to Activate the Method! 
+> Use Y/y in the Console to Activate the Methods! 
 
 
 
 **How To Deactivate ?!**
 
-> Use N/n in the Console to Activate the Method! 
+> Use N/n in the Console to Activate the Methods! 
 
 **DISCLAIMER:**
 **USE THIS SOFTWARE AS YOUR OWN RISK! WE WILL NOT GUARANTEE ANYTHING RELATED TO YOU OR YOUR COMPANY!**
