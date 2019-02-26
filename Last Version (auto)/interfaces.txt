@@ -1,0 +1,4 @@
+Ethernet 2
+Ethernet 4
+Ethernet
+Wi-Fi

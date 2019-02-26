@@ -1,0 +1,16 @@
+//renewing ip
+ipconfig /release
+ipconfig /renew
+pause
+
+//showing all ip configs
+ipconfig /all
+
+//Note that you can also refresh all DHCP leases and re-register DNS names using the registerdns parameter.
+ipconfig /registerdns
+
+//If you need to clear the DNS resolver cache on the local computer, you can use the flushdns parameter.
+ipconfig /flushdns
+
+//To view the contents of the DNS resolver cache, use the displaydns parameter.
+ipconfig /displaydns
