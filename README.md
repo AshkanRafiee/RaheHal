@@ -1,8 +1,8 @@
-No-Sanction
+#No-Sanction
 
-**This Application immunes your internet connection from the sanction !**
+This Application immunes your internet connection from the sanction 
 
-**HOW TO INSTALL ?**
+##HOW TO INSTALL ?
 
 
 > Simply donwload your desired architecture from exe files And Run The Program. 
@@ -11,17 +11,17 @@ No-Sanction
 
 
 
-##**HOW TO Activate ?!**
+##HOW TO Activate ?!
 
 > Use Y/y in the Console to Activate the Methods! 
 
 
 
-**How To Deactivate ?!**
+##How To Deactivate ?!
 
 > Use N/n in the Console to Deactivate the Methods! 
 
-**Other Usage:**
+##Other Usage:
 
 > Use i/IP to get your external ip & your country!
 > 
@@ -33,5 +33,5 @@ No-Sanction
 
 
 
-**DISCLAIMER:**
-**USE THIS SOFTWARE AS YOUR OWN RISK! WE WILL NOT GUARANTEE ANYTHING RELATED TO YOU OR YOUR COMPANY!**
+##DISCLAIMER:
+USE THIS SOFTWARE AS YOUR OWN RISK! WE WILL NOT GUARANTEE ANYTHING RELATED TO YOU OR YOUR COMPANY!
