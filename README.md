@@ -26,6 +26,11 @@ This Application immunes your internet connection from the sanction
 > 
 > Use help/h to get hotkeys information in the console!
 
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
 ## Copyright
 I'm not offering any kind of license for this repository.
 You just can use this code as it is.
