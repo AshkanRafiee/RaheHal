@@ -11,7 +11,9 @@ This Application immunes your internet connection from the sanction
 ## Usage
 
 > Use Y/y in the Console to Activate the Methods! 
+> 
 > Use N/n in the Console to Deactivate the Methods! 
+> 
 > Use i/IP to get your external ip & your country!
 > 
 > Use P/p to ping cloudflare!
