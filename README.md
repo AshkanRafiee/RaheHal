@@ -2,22 +2,16 @@
 
 This Application immunes your internet connection from the sanction 
 
-## HOW TO INSTALL ?
+## Installation
 
 > Simply donwload your desired architecture from exe files And Run The Program. 
 > 
 > This Program Requires Administrator privilages! 
 
-## HOW TO Activate ?!
+## Usage
 
 > Use Y/y in the Console to Activate the Methods! 
-
-## How To Deactivate ?!
-
 > Use N/n in the Console to Deactivate the Methods! 
-
-## Other Usage:
-
 > Use i/IP to get your external ip & your country!
 > 
 > Use P/p to ping cloudflare!
