@@ -4,7 +4,7 @@ This Application immunes your internet connection from the sanction
 
 ## Installation
 
-> Simply donwload your desired architecture from exe files And Run The Program. 
+> Simply donwload [x64](https://github.com/AshkanRafiee/No-Sanction/raw/master/No%20Sanction!(x64).exe) or [x86](https://github.com/AshkanRafiee/No-Sanction/raw/master/No%20Sanction!(x86).exe) version And Run it. 
 > 
 > This Program Requires Administrator privilages! 
 
