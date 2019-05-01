@@ -1,6 +1,6 @@
 # No-Sanction
 
-This Application immunes your internet connection from the sanction 
+This Application immunes your internet connection from the sanction!
 
 ## Installation
 
