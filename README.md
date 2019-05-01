@@ -23,6 +23,9 @@ Windows
 > Use help/h to get hotkeys information in the console!
 
 Linux
+> Open Terminal and cd to the file directory!
+> bash linux.sh
+>
 > Use Y/y in the Console to Activate the Methods! 
 > 
 > Use any word but Y/y in the Console to Deactivate the Methods! 
