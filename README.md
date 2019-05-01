@@ -25,7 +25,7 @@ Windows
 Linux
 > Use Y/y in the Console to Activate the Methods! 
 > 
-> Use any word but y in the Console to Deactivate the Methods! 
+> Use any word but Y/y in the Console to Deactivate the Methods! 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
