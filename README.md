@@ -21,6 +21,7 @@ Windows
 > Use x to close the application!
 > 
 > Use help/h to get hotkeys information in the console!
+
 Linux
 > Use Y/y in the Console to Activate the Methods! 
 > 
