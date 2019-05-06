@@ -33,6 +33,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
-## Copyright
-I'm not offering any kind of license for this repository.
-You just can use this code as it is.
+
+
+
