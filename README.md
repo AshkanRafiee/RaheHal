@@ -15,6 +15,8 @@ git clone https://github.com/AshkanRafiee/No-Sanction/
 
 ## Usage
 Windows
+> Double click on the downloaded batch/exe file and:
+>
 > Use Y/y in the Console to Activate the Methods! 
 > 
 > Use N/n in the Console to Deactivate the Methods! 
@@ -28,13 +30,21 @@ Windows
 > Use help/h to get hotkeys information in the console!
 
 Linux
-> Open Terminal and cd to the downloaded file directory and enter "bash linux.sh"
->
+> Open Terminal and cd to the downloaded file directory and enter "bash no-sanction-linux.sh"
+```
+cd No-Sanction/
+bash no-sanction-linux.sh
+```
+
 > Click on yes/no to turn on/off!
 
 MacOSX
-> Open Terminal and cd to the downloaded file directory and enter "bash linux.sh"
->
+> Open Terminal and cd to the downloaded file directory and enter "bash no-sanction-macOSX.sh" like the following code:
+```
+cd No-Sanction/
+bash no-sanction-macOSX.sh
+```
+
 > Use Y/y in the Console to Activate the Methods! 
 > 
 > Use any word except Y/y in the Console to Deactivate the Methods! 
