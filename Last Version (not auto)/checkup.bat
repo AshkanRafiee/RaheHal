@@ -1,1 +1,0 @@
-netsh interface ipv4 show dns "Ethernet"
