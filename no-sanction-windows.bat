@@ -7,7 +7,7 @@ echo                             #           Made By Ashkan Rafiee           #
 echo                             #############################################
 echo +                                                                                                      +
 :choice
-set /P c=Enter The Appropriate Hotkey(help="h", Ping="p", Shecan ON/OFF="y/n", Your External IP ="i", Exit ="x"):
+set /P c=Enter The Appropriate Hotkey(help="h", Ping="p", No-Sanction ON/OFF="y/n", Your External IP ="i", Exit ="x"):
 if /I "%c%" EQU "Y" goto :DNSON
 if /I "%c%" EQU "N" goto :DNSOFF
 if /I "%c%" EQU "P" goto :PING
@@ -22,7 +22,7 @@ goto :choice
 :DNSON
 (for /f "tokens=3* delims= " %%a in ('netsh Interface show interface ^|find /I "Connected"') do echo %%b) > temp.txt
 for /F "tokens=*" %%F in (temp.txt) DO (netsh interface ipv4 set dns "%%F" static 94.232.174.194)
-echo "Shecan Turned ON!"
+echo "No-Sanction Turned ON!"
 del /f temp.txt
 pause
 cls
@@ -31,7 +31,7 @@ goto :choice
 :DNSOFF
 (for /f "tokens=3* delims= " %%a in ('netsh Interface show interface ^|find /I "Connected"') do echo %%b) > temp.txt
 for /F "tokens=*" %%F in (temp.txt) DO (netsh interface ipv4 set dns "%%F" dhcp)
-echo "Shecan Turned Off!"
+echo "No-Sanction Turned Off!"
 del /f temp.txt
 pause
 cls
