@@ -30,7 +30,7 @@ Windows
 > Use help/h to get hotkeys information in the console!
 
 Linux
-> Open Terminal and cd to the downloaded file directory and enter "bash no-sanction-linux.sh"
+> Open Terminal and cd to the downloaded file directory and enter "bash no-sanction-linux.sh" like the following code:
 ```
 cd No-Sanction/
 bash no-sanction-linux.sh
