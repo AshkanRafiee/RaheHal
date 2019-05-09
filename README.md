@@ -4,7 +4,7 @@ This Application immunes your internet connection from the sanction!
 
 ## Installation
 
-> Simply donwload [x64](https://github.com/AshkanRafiee/No-Sanction/raw/master/No%20Sanction!(x64).exe) or [x86](https://github.com/AshkanRafiee/No-Sanction/raw/master/No%20Sanction!(x86).exe) or [bat] (https://raw.githubusercontent.com/AshkanRafiee/No-Sanction/master/no-sanction-windows.bat) version for Windows and [linux.sh](https://raw.githubusercontent.com/AshkanRafiee/No-Sanction/master/no-sanction-linux.sh) for linux and [macOSX.sh] (https://raw.githubusercontent.com/AshkanRafiee/No-Sanction/master/no-sanction-macOSX.sh) and run it.
+> Simply donwload [x64](https://github.com/AshkanRafiee/No-Sanction/raw/master/No%20Sanction!(x64).exe) or [x86](https://github.com/AshkanRafiee/No-Sanction/raw/master/No%20Sanction!(x86).exe) or [bat](https://raw.githubusercontent.com/AshkanRafiee/No-Sanction/master/no-sanction-windows.bat) version for Windows and [linux.sh](https://raw.githubusercontent.com/AshkanRafiee/No-Sanction/master/no-sanction-linux.sh) for linux and [macOSX.sh](https://raw.githubusercontent.com/AshkanRafiee/No-Sanction/master/no-sanction-macOSX.sh) and run it.
 > 
 > This Program Requires Administrator privileges! 
 
