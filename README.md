@@ -7,7 +7,9 @@ This Application immunes your internet connection from the sanction!
 > Simply donwload [x64](https://github.com/AshkanRafiee/No-Sanction/raw/master/No-Sanction(x64).exe) or [x86](https://github.com/AshkanRafiee/No-Sanction/raw/master/No-Sanction(x86).exe) or [bat](https://raw.githubusercontent.com/AshkanRafiee/No-Sanction/master/no-sanction-windows.bat) version for Windows and [linux.sh](https://raw.githubusercontent.com/AshkanRafiee/No-Sanction/master/no-sanction-linux.sh) for linux and [macOSX.sh](https://raw.githubusercontent.com/AshkanRafiee/No-Sanction/master/no-sanction-macOSX.sh) and run it.
 > 
 You can also clone the whole repository using the following code:
->git clone https://github.com/AshkanRafiee/No-Sanction/
+```
+git clone https://github.com/AshkanRafiee/No-Sanction/
+```
 
 > This Program Requires Administrator privileges! 
 
