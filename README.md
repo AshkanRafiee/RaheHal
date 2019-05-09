@@ -28,6 +28,13 @@ Linux
 > Use Y/y in the Console to Activate the Methods! 
 > 
 > Use any word except Y/y in the Console to Deactivate the Methods! 
+
+MacOSX
+> Open Terminal and cd to the downloaded file directory and enter "bash linux.sh"
+>
+> Use Y/y in the Console to Activate the Methods! 
+> 
+> Use any word except Y/y in the Console to Deactivate the Methods! 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
