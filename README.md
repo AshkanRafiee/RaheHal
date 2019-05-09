@@ -25,9 +25,7 @@ Windows
 Linux
 > Open Terminal and cd to the downloaded file directory and enter "bash linux.sh"
 >
-> Use Y/y in the Console to Activate the Methods! 
-> 
-> Use any word except Y/y in the Console to Deactivate the Methods! 
+> Click on yes/no to turn on/off!
 
 MacOSX
 > Open Terminal and cd to the downloaded file directory and enter "bash linux.sh"
