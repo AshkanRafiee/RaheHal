@@ -2,7 +2,7 @@
 
 color 2
 echo                             #############################################
-echo                             #   Welcome To "No Sanction" Application!   #
+echo                             #          Welcome To No Sanction!          #
 echo                             #           Made By Ashkan Rafiee           #
 echo                             #############################################
 echo +                                                                                                      +
