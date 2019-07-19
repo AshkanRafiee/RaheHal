@@ -4,7 +4,7 @@ This Application immunes your internet connection from the sanction!
 
 ## Installation
 
-> Simply donwload [bat](https://raw.githubusercontent.com/AshkanRafiee/No-Sanction/master/no-sanction-windows.bat) version for Windows and [linux.sh](https://raw.githubusercontent.com/AshkanRafiee/No-Sanction/master/no-sanction-linux.sh) for linux and [macOSX.sh](https://raw.githubusercontent.com/AshkanRafiee/No-Sanction/master/no-sanction-macOSX.sh) for MacOSX and run it.
+> Simply donwload [bat](https://raw.githubusercontent.com/AshkanRafiee/No-Sanction/master/no-sanction-windows.bat) version for Windows, [linux.sh](https://raw.githubusercontent.com/AshkanRafiee/No-Sanction/master/no-sanction-linux.sh) for linux and [macOSX.sh](https://raw.githubusercontent.com/AshkanRafiee/No-Sanction/master/no-sanction-macOSX.sh) for MacOSX and run it.
 
 > You can also clone the whole repository using the following code:
 ```
