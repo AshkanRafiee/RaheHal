@@ -21,7 +21,7 @@ goto :choice
 
 :DNSON
 (for /f "tokens=3* delims= " %%a in ('netsh Interface show interface ^|find /I "Connected"') do echo %%b) > temp.txt
-for /F "tokens=*" %%F in (temp.txt) DO (netsh interface ipv4 set dns "%%F" static 94.232.174.194)
+for /F "tokens=*" %%F in (temp.txt) DO (netsh interface ipv4 set dns "%%F" static 178.22.122.100)
 echo "No-Sanction Turned ON!"
 del /f temp.txt
 pause
