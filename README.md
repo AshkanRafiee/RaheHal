@@ -15,7 +15,7 @@ git clone https://github.com/AshkanRafiee/No-Sanction/
 
 ## Usage
 Windows
-> Double click on the downloaded batch/exe file and:
+> Double click on the downloaded batch file and:
 >
 > Use Y/y in the Console to Activate the Methods! 
 > 
