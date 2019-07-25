@@ -15,7 +15,7 @@ git clone https://github.com/AshkanRafiee/No-Sanction/
 
 ## Usage
 Windows
-> Run the batch file as Administrator and:
+> Run the file as Administrator and:
 >
 > Use Y/y in the Console to Activate the Methods! 
 > 
