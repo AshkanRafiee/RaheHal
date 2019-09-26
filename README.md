@@ -36,18 +36,31 @@ Windows
 
 MacOSX/Linux 
 > no-sanction [flags] or no-sanction [flags] [arguments]
+>
 >   -a  Activeate No-Sanction
+>
 >       Can also use active instead of -a
+>
 >   -d  Deactiveate No-Sanction
+>
 >       Can also use deactive instead of -d
+>
 >   -u  Update No-Sanction
+>
 >   -h  Show the help
+>
 >   -v  Get the tool version
+>
 > Examples:
+>
 >    no-sanction -a
+>
 >    no-sanction -d
+>
 >    no-sanction -u
+>
 >    no-sanction -h
+>
 >    no-sanction -v
 
 ## Contributing
