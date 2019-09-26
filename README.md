@@ -3,12 +3,14 @@
 This Application immunes your internet connection from the sanction!
 
 ## Installation
-> Simply donwload [x64](https://github.com/AshkanRafiee/No-Sanction/raw/master/No-Sanction(x64).exe) or [x86](https://github.com/AshkanRafiee/No-Sanction/raw/master/No-Sanction(x86).exe) version for Windows, [linux.sh](https://raw.githubusercontent.com/AshkanRafiee/No-Sanction/master/no-sanction-linux.sh) for linux and [macOSX.sh](https://raw.githubusercontent.com/AshkanRafiee/No-Sanction/master/no-sanction-macOSX.sh) for MacOSX and run it.
+Windows
+> Simply donwload [x64](https://github.com/AshkanRafiee/No-Sanction/raw/master/No-Sanction(x64).exe) or [x86](https://github.com/AshkanRafiee/No-Sanction/raw/master/No-Sanction(x86).exe) version for Windows.
 
-> You can also clone the whole repository using the following code:
-```
-git clone https://github.com/AshkanRafiee/No-Sanction/
-```
+MacOSX/Linux
+> git clone https://github.com/AshkanRafiee/No-Sanction/
+> cd No-Sanction
+> chmod a+x install.sh
+> ./install.sh
 
 > This Program Requires Administrator privileges! 
 
@@ -28,25 +30,22 @@ Windows
 > 
 > Use help/h to get hotkeys information in the console!
 
-Linux
-> Open Terminal and cd to the downloaded file directory and enter "bash no-sanction-linux.sh" like the following code:
-```
-cd No-Sanction/
-bash no-sanction-linux.sh
-```
+MacOSX/Linux 
+> no-sanction [flags] or no-sanction [flags] [arguments]
+>   -a  Activeate No-Sanction
+>       Can also use active instead of -a
+>   -d  Deactiveate No-Sanction
+>       Can also use deactive instead of -d
+>   -u  Update No-Sanction
+>   -h  Show the help
+>   -v  Get the tool version
+> Examples:
+>    no-sanction -a
+>    no-sanction -d
+>    no-sanction -u
+>    no-sanction -h
+>    no-sanction -v
 
-> Click on yes/no to turn on/off!
-
-MacOSX
-> Open Terminal and cd to the downloaded file directory and enter "bash no-sanction-macOSX.sh" like the following code:
-```
-cd No-Sanction/
-bash no-sanction-macOSX.sh
-```
-
-> Use Y/y in the Console to Activate the Methods! 
-> 
-> Use any word except Y/y in the Console to Deactivate the Methods! 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
