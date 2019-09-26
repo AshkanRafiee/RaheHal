@@ -9,8 +9,11 @@ Windows
 MacOSX/Linux
 
 ``git clone https://github.com/AshkanRafiee/No-Sanction/``
+
 ``cd No-Sanction``
+
 ``chmod a+x install.sh``
+
 ``./install.sh``
 
 > This Program Requires Administrator privileges! 
