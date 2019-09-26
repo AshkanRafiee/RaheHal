@@ -7,10 +7,13 @@ Windows
 > Simply donwload [x64](https://github.com/AshkanRafiee/No-Sanction/raw/master/No-Sanction(x64).exe) or [x86](https://github.com/AshkanRafiee/No-Sanction/raw/master/No-Sanction(x86).exe) version for Windows.
 
 MacOSX/Linux
-``git clone https://github.com/AshkanRafiee/No-Sanction/
-cd No-Sanction
-chmod a+x install.sh
-./install.sh ``
+``git clone https://github.com/AshkanRafiee/No-Sanction/``
+
+``cd No-Sanction``
+
+``chmod a+x install.sh``
+
+``./install.sh ``
 
 > This Program Requires Administrator privileges! 
 
