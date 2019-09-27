@@ -4,7 +4,7 @@ This Application immunes your internet connection from the sanction!
 
 ## Installation
 Windows
-> Simply donwload [x64](https://github.com/AshkanRafiee/No-Sanction/raw/master/No-Sanction(x64).exe) or [x86](https://github.com/AshkanRafiee/No-Sanction/raw/master/No-Sanction(x86).exe) version for Windows.
+> Simply donwload [x64](https://github.com/AshkanRafiee/No-Sanction/raw/master/windows/No-Sanction(x64).exe) or [x86](https://github.com/AshkanRafiee/No-Sanction/raw/master/windows/No-Sanction(x86).exe) version for Windows.
 
 MacOSX/Linux
 
@@ -51,6 +51,8 @@ MacOSX/Linux
 >
 >   -v  Get the tool version
 >
+>   -p  Ping CloudFlare
+>
 > Examples:
 >
 >    no-sanction -a
@@ -62,12 +64,10 @@ MacOSX/Linux
 >    no-sanction -h
 >
 >    no-sanction -v
+>
+>    no-sanction -p
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
-
-
-
-
