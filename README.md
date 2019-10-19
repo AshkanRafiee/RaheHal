@@ -71,3 +71,5 @@ MacOSX/Linux
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
+## Copyright
+Give Me The Rights If You are Using all/some Parts of My Code!
