@@ -98,9 +98,9 @@ usage()
 No-Sanction
 Description: Internet Connection Immunity to Sanctions.
 Usage: no-sanction [flags] or no-sanction [flags] [arguments]
-  -a  Activeate No-Sanction
+  -a  Activate No-Sanction
       Can also use active instead of -a
-  -d  Deactiveate No-Sanction
+  -d  Deactivate No-Sanction
       Can also use deactive instead of -d
   -u  Update No-Sanction
   -h  Show the help
