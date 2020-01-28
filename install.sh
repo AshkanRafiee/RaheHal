@@ -10,14 +10,14 @@ install()
 	answer=${answer:-C}
 
   	if [[ "$answer" == [Mm] ]]; then
-    	echo -n "Installing No-Sanction: "
-    	chmod a+x MacOSX/no-sanction
-    	cp MacOSX/no-sanction $prefix/bin > /dev/null 2>&1 || { echo "Failure"; echo "Error copying file, try running install script as sudo"; exit 1; }
+    	echo -n "Installing RaheHal: "
+    	chmod a+x MacOSX/RaheHal
+    	cp MacOSX/RaheHal $prefix/bin > /dev/null 2>&1 || { echo "Failure"; echo "Error copying file, try running install script as sudo"; exit 1; }
     	echo "Success"
 	elif [[ "$answer" == [Ll] ]]; then
-    	echo -n "Installing No-Sanction: "
-    	chmod a+x Linux/no-sanction
-    	cp Linux/no-sanction $prefix/bin > /dev/null 2>&1 || { echo "Failure"; echo "Error copying file, try running install script as sudo"; exit 1; }
+    	echo -n "Installing RaheHal: "
+    	chmod a+x Linux/RaheHal
+    	cp Linux/RaheHal $prefix/bin > /dev/null 2>&1 || { echo "Failure"; echo "Error copying file, try running install script as sudo"; exit 1; }
     	echo "Success"
 	elif [[ "$answer" == [Cc] ]]; then
 		echo -n "Installation Canceled!"

@@ -34,7 +34,7 @@ httpGet()
 
 update()
 {
-  repositoryName="No-Sanction" #Name of repostiory to be updated ex. Sandman-Lite
+  repositoryName="RaheHal" #Name of repostiory to be updated ex. Sandman-Lite
   githubUserName="AshkanRafiee" #username that hosts the repostiory ex. alexanderepstein
   nameOfInstallFile="install.sh" # change this if the installer file has a different name be sure to include file extension if there is one
   latestVersion=$(httpGet https://api.github.com/repos/$githubUserName/$repositoryName/tags | grep -Eo '"name":.*?[^\\]",'| head -1 | grep -Eo "[0-9.]+" ) #always grabs the tag without the v option
@@ -95,22 +95,22 @@ networksetup -setdnsservers Wi-Fi 8.8.8.8 8.8.4.4
 usage()
 {
  cat <<EOF
-No-Sanction
+RaheHal
 Description: Internet Connection Immunity to Sanctions.
-Usage: no-sanction [flags] or no-sanction [flags] [arguments]
-  -a  Activate No-Sanction
+Usage: RaheHal [flags] or RaheHal [flags] [arguments]
+  -a  Activate RaheHal
       Can also use active instead of -a
-  -d  Deactivate No-Sanction
+  -d  Deactivate RaheHal
       Can also use deactive instead of -d
-  -u  Update No-Sanction
+  -u  Update RaheHal
   -h  Show the help
   -v  Get the tool version
 Examples:
-   no-sanction -a
-   no-sanction -d
-   no-sanction -u
-   no-sanction -h
-   no-sanction -v
+   RaheHal -a
+   RaheHal -d
+   RaheHal -u
+   RaheHal -h
+   RaheHal -v
 EOF
 }
 pping()
@@ -166,8 +166,8 @@ elif [[ $# == "1" ]]; then
   elif [[ $1 == "help" ]]; then
     usage
     exit 0
-  elif [[ $flag == "active" || $1 == "active" ]]; then active "${*:2}" && tput setaf 4 &&echo -e "No-Sanction Activated Successfully!"  || exit 1
-  elif [[ $flag == "deactive" || $1 == "deactive" ]]; then deactive ${*:2} && tput setaf 1 && echo -e "No-Sanction Deactivated Successfully!" || exit 1
+  elif [[ $flag == "active" || $1 == "active" ]]; then active "${*:2}" && tput setaf 4 &&echo -e "RaheHal Activated Successfully!"  || exit 1
+  elif [[ $flag == "deactive" || $1 == "deactive" ]]; then deactive ${*:2} && tput setaf 1 && echo -e "RaheHal Deactivated Successfully!" || exit 1
   else { echo "Error: the argument $1 is not valid"; exit 1; }; fi
 else { usage; exit 1; };
 fi
