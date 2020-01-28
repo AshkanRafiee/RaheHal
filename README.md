@@ -1,6 +1,6 @@
-# No-Sanction
+# RaheHal
 
-This Application immunes your internet connection from the sanction!
+RaheHal for laziest people on the planet!
 
 ## Installation
 Windows
@@ -8,9 +8,9 @@ Windows
 
 MacOSX/Linux
 
-``git clone https://github.com/AshkanRafiee/No-Sanction/``
+``git clone https://github.com/AshkanRafiee/RaheHal/``
 
-``cd No-Sanction``
+``cd RaheHal``
 
 ``chmod a+x install.sh``
 
@@ -20,32 +20,21 @@ MacOSX/Linux
 
 ## Usage
 Windows
-> Run the file as Administrator and:
+> Enjoy The GUI!
 >
-> Use Y/y in the Console to Activate the Methods! 
-> 
-> Use N/n in the Console to Deactivate the Methods! 
-> 
-> Use i/IP to get your external ip & your country!
-> 
-> Use P/p to ping cloudflare!
-> 
-> Use x to close the application!
-> 
-> Use help/h to get hotkeys information in the console!
-
+>
 MacOSX/Linux 
 > no-sanction [flags] or no-sanction [flags] [arguments]
 >
->   -a  Activeate No-Sanction
+>   -a  Activeate RaheHal
 >
 >       Can also use active instead of -a
 >
->   -d  Deactiveate No-Sanction
+>   -d  Deactiveate RaheHal
 >
 >       Can also use deactive instead of -d
 >
->   -u  Update No-Sanction
+>   -u  Update RaheHal
 >
 >   -h  Show the help
 >
@@ -55,17 +44,17 @@ MacOSX/Linux
 >
 > Examples:
 >
->    no-sanction -a
+>    RaheHal -a
 >
->    no-sanction -d
+>    RaheHal -d
 >
->    no-sanction -u
+>    RaheHal -u
 >
->    no-sanction -h
+>    RaheHal -h
 >
->    no-sanction -v
+>    RaheHal -v
 >
->    no-sanction -p
+>    RaheHal -p
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
