@@ -4,7 +4,7 @@ RaheHal for laziest people on the planet!
 
 ## Installation
 Windows
-> Simply donwload [x64](https://github.com/AshkanRafiee/No-Sanction/raw/master/windows/No-Sanction(x64).exe) or [x86](https://github.com/AshkanRafiee/No-Sanction/raw/master/windows/No-Sanction(x86).exe) version for Windows.
+> Simply donwload [x64](https://github.com/AshkanRafiee/RaheHal/raw/master/Windows/RaheHal.exe) version for Windows.
 
 MacOSX/Linux
 
